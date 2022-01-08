@@ -2,10 +2,7 @@
   "name": "sum12",
   "version": "1.0.0",
   "description": "A NodeJS text based fantasy console",
-  "main": "src/sum12.js",
-  "directories": {
-    "test": "test"
-  },
+  "main": "out/sum12.js",
   "scripts": {
     "test": "node ."
   },
@@ -23,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/LegotronForce/sum12/issues"
   },
-  "homepage": "https://github.com/LegotronForce/sum12#readme"
+  "homepage": "https://github.com/LegotronForce/sum12#readme",
+  "dependencies": {
+    "@types/yargs": "^17.0.8",
+    "chalk": "^4.1.2",
+    "yargs": "^17.3.1"
+  }
 }
