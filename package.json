@@ -1,0 +1,27 @@
+{
+  "name": "sum12",
+  "version": "1.0.0",
+  "description": "A NodeJS text based fantasy console",
+  "main": "src/sum12.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegotronForce/sum12.git"
+  },
+  "keywords": [
+    "fantasy-console",
+    "typescript",
+    "ts"
+  ],
+  "author": "Nostalgia3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LegotronForce/sum12/issues"
+  },
+  "homepage": "https://github.com/LegotronForce/sum12#readme"
+}

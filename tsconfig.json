@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "rootDir": "src/",
+    },
+    
+    "exclude": [
+        "out/*",
+        "test/*"
+    ]
+}
