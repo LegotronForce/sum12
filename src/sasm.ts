@@ -1,0 +1,16 @@
+enum Instructions {
+    BRK = 0x00,
+    LD  = 0x01,
+    ST  = 0x02,
+    JMP = 0x03
+}
+
+enum Registers {
+    A  = 0x00,
+    B  = 0x01,
+    C  = 0x02,
+    D  = 0x03,
+    PC = 0x04,
+    PE = 0x05,
+    F  = 0x0F,
+}
